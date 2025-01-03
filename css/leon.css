@@ -146,7 +146,8 @@ transition: 0.3s;
 /*End header*/
 /*start landing section*/
 .landing{
-  background-image: url('/images/landing.jpg');
+
+  background-image: url(/images/landing.jpg);
   background-size: cover;
   height: calc( 100vh - 64px);
   position: relative;
